@@ -1,0 +1,2 @@
+### ¿Qué tiene de especial la excepción del tipo “RuntimeException”?
+La excepción del tipo "RuntimeException", se destaca por tener una subclase especial de excepciones denominada "RuntimeException". De esta subclase cuelgan un conjunto de excepciones referidas a los errores que normalmente pueden suceder dentro de cualquier fragmento de código.
